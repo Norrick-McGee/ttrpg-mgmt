@@ -1,0 +1,23 @@
+[gd_scene load_steps=3 format=3 uid="uid://dncjqnuu3lr5c"]
+
+[ext_resource type="Script" path="res://HLabeledLineEdit.gd" id="1_shxxp"]
+
+[sub_resource type="Theme" id="Theme_2byvm"]
+default_font_size = 16
+
+[node name="HLabeledLineEdit" type="HBoxContainer"]
+theme = SubResource("Theme_2byvm")
+script = ExtResource("1_shxxp")
+
+[node name="LineEdit" type="LineEdit" parent="."]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label" type="Label" parent="LineEdit"]
+layout_mode = 2
+offset_left = 0.999998
+offset_right = 94.0
+offset_bottom = 23.0
+scale = Vector2(0.453291, 0.41463)
+size_flags_horizontal = 0
+size_flags_vertical = 0
