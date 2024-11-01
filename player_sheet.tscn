@@ -15,12 +15,14 @@ layout_mode = 0
 offset_right = 360.0
 offset_bottom = 66.0
 
-[node name="CharacterNameHBox" parent="VBoxContainer" instance=ExtResource("1_okd58")]
+[node name="CharacterNameLineEdit" parent="VBoxContainer" instance=ExtResource("1_okd58")]
 layout_mode = 2
+label_text = "Character Name"
 default_text = "Gumbis Prime III"
 
-[node name="CharacterNameHBox2" parent="VBoxContainer" instance=ExtResource("1_okd58")]
+[node name="PlayerNameLineEdit" parent="VBoxContainer" instance=ExtResource("1_okd58")]
 layout_mode = 2
+label_text = "Player Name"
 default_text = "McGubbins"
 
 [node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer"]
@@ -30,9 +32,11 @@ size_flags_vertical = 4
 [node name="HLabeledLineEdit" parent="VBoxContainer/HBoxContainer" instance=ExtResource("1_okd58")]
 layout_mode = 2
 size_flags_horizontal = 3
+label_text = "Ancestry"
 default_text = "Half-Dwarf"
 
 [node name="HLabeledLineEdit2" parent="VBoxContainer/HBoxContainer" instance=ExtResource("1_okd58")]
 layout_mode = 2
 size_flags_horizontal = 3
+label_text = "Heritage"
 default_text = "Duskwalker"

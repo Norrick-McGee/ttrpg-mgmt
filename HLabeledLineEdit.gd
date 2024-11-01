@@ -5,7 +5,7 @@ extends HBoxContainer
 	set(value):
 		$LineEdit/Label.text = value
 	get():
-		return  $LineEdit/Label.text.text
+		return  $LineEdit/Label.text
 		
 @export var default_text: String:
 	set(value):
