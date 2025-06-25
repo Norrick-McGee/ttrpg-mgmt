@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://dncjqnuu3lr5c"]
 
-[ext_resource type="Script" path="res://HLabeledLineEdit.gd" id="1_shxxp"]
+[ext_resource type="Script" uid="uid://bk4hwa3uylxje" path="res://HLabeledLineEdit.gd" id="1_shxxp"]
 
 [sub_resource type="Theme" id="Theme_2byvm"]
 default_font_size = 16
