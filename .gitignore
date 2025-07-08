@@ -2,3 +2,4 @@
 .godot/
 /android/
 *.db
+assets/third_party
