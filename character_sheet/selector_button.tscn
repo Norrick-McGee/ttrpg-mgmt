@@ -1,0 +1,20 @@
+[gd_scene format=3 uid="uid://kmd4mmxxtntg"]
+
+[node name="SelectorButton" type="Button"]
+offset_right = 8.0
+offset_bottom = 8.0
+
+[node name="PanelContainer" type="PanelContainer" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer"]
+layout_mode = 2
+
+[node name="SelectionSigil" type="TextureRect" parent="PanelContainer/HBoxContainer"]
+layout_mode = 2
+
+[node name="SelectionLabel" type="Label" parent="PanelContainer/HBoxContainer"]
+layout_mode = 2
+text = "this is a label"
