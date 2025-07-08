@@ -1,0 +1,63 @@
+third_party/
+├── Sprout Lands - UI Pack - Basic pack
+│   ├── emojis-free
+│   │   ├── Emoji_Spritesheet_Free.png
+│   │   ├── emoji style ui
+│   │   │   ├── Inventory_Blocks_Spritesheet.png
+│   │   │   ├── inventory_example_2.png
+│   │   │   ├── inventory_example.png
+│   │   │   ├── inventory_example_with_slots_2.png
+│   │   │   ├── inventory_example_with_slots.png
+│   │   │   ├── Inventory_Herat_Spritesheet.png
+│   │   │   ├── inventory_Light_example_2.png
+│   │   │   ├── inventory_Light_example.png
+│   │   │   ├── Inventory_Light_example_with_slots_2.png
+│   │   │   ├── inventory_Light_example_with_slots.png
+│   │   │   ├── Inventory_Light_Herat_Spritesheet.png
+│   │   │   ├── Inventory_Spritesheet.png
+│   │   │   └── weather
+│   │   │       ├── Weather_Icons_smal_freel.png
+│   │   │       └── Weather_UI_Free.png
+│   │   └── speech_bubble_grey.png
+│   ├── fonts
+│   │   ├── pixelFont-7-8x14-sproutLands.ttf
+│   │   ├── pixel-letters-7-8x14.png
+│   │   └── pixel-letters-7-8x14-preview.png
+│   ├── read_me.txt
+│   └── Sprite sheets
+│       ├── buttons
+│       │   ├── Small Square Buttons.png
+│       │   ├── Square Buttons 19x26.png
+│       │   ├── Square Buttons 26x19.png
+│       │   └── Square Buttons 26x26.png
+│       ├── Dialouge UI
+│       │   ├── dialog box big.png
+│       │   ├── dialog box character finished talking click to continue indicator - spritesheet .png
+│       │   ├── dialog box medium.png
+│       │   ├── dialog box.png
+│       │   ├── dialog box small.png
+│       │   ├── Emotes
+│       │   │   └── Teemo Basic emote animations sprite sheet.png
+│       │   ├── Premade dialog box  big.png
+│       │   ├── Premade dialog box medium.png
+│       │   └── Premade dialog box small.png
+│       ├── Icons
+│       │   ├── All Icons.png
+│       │   ├── special icons
+│       │   │   ├── Small Happines-Sadness icons.png
+│       │   │   └── Special Icons.png
+│       │   └── white icons.png
+│       ├── Mouse sprites
+│       │   ├── Catpaw holding Mouse icon.png
+│       │   ├── Catpaw Mouse icon.png
+│       │   ├── Catpaw pointing Mouse icon.png
+│       │   ├── Triangle Mouse icon 1.png
+│       │   ├── Triangle Mouse icon 2.png
+│       │   └── Triangle Mouse icon 3.png
+│       ├── Setting menu.png
+│       ├── Sprite sheet for Basic Pack.png
+│       ├── UI Big Play Button.png
+│       └── UI Settings Buttons.png
+└── Sprout Lands - UI Pack - Basic pack.zip
+
+13 directories, 48 files
