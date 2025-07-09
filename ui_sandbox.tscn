@@ -56,13 +56,11 @@ texture = ExtResource("2_7dcsi")
 [node name="Label" type="Label" parent="VBoxContainer/AncestryButton/NinePatchRect/MarginContainer/HBoxContainer"]
 custom_minimum_size = Vector2(100, 0)
 layout_mode = 2
-text = "Ancestry"
+text = "Click Me!
+"
 
 [node name="Button" type="Button" parent="VBoxContainer/AncestryButton/NinePatchRect/MarginContainer"]
 layout_mode = 2
 
 [node name="Seperator" type="Control" parent="VBoxContainer"]
-layout_mode = 2
-
-[node name="ui_sandbox" type="Control" parent="."]
 layout_mode = 2
